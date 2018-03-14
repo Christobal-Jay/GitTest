@@ -9,9 +9,12 @@ $EM_CONF[$_EXTKEY] = [
     'clearCacheOnLoad' => 0,
     'author' => 'Oliver Thiele',
     'author_email' => 'mailYYYY@oliver-thiele.de',
+<<<<<<< HEAD
     'author_email' => 'mailYYYY@oliver-thiele.de',
     'author_email' => 'mailYYYY@oliver-thiele.de',
     'author_email' => 'mailYYYY@oliver-thiele.de',
+=======
+>>>>>>> parent of 6180f2b... 2nd
     'author_company' => '',
     'version' => '8.7.0',
     'constraints' => [
