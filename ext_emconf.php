@@ -10,9 +10,12 @@ $EM_CONF[$_EXTKEY] = [
     'author' => 'Oliver Thiele',
     'author_email' => 'mailYYYY@oliver-thiele.de',
 <<<<<<< HEAD
+<<<<<<< HEAD
     'author_email' => 'mailYYYY@oliver-thiele.de',
     'author_email' => 'mailYYYY@oliver-thiele.de',
     'author_email' => 'mailYYYY@oliver-thiele.de',
+=======
+>>>>>>> parent of 6180f2b... 2nd
 =======
 >>>>>>> parent of 6180f2b... 2nd
     'author_company' => '',
