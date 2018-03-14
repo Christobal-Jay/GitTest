@@ -24,6 +24,7 @@ mod.wizards.newContentElement.wizardItems.special {
             description = LLL:EXT:ot_texticon/Resources/Private/Language/locallang_db.xlf:wizard.description
             tt_content_defValues {
                 CType = ot_texticon
+                CType = ot_texticon
             }
         }
     }
